@@ -1,1 +1,1 @@
-# LSB_Steg
+# Least Significant Bit Steganography
